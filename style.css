@@ -1,1 +1,97 @@
 
+
+
+/* HEADER */
+
+header {
+	list-style-type: none;
+}
+
+header, h1 {
+	font-size: 30px;
+	font-family: "Segoe UI" ;
+	text-align: center;
+	display: inline-block;
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+nav ul li {
+
+	font-size: 10px;
+	font-family: "Segoe UI" ;
+	display: inline-block;
+	margin: 10px;
+	margin-top: 5px;
+	padding-right: 5px;
+}
+
+nav, button {
+	border-radius: 10%;
+}
+
+div.logo {
+	display: inline;
+	padding:0;
+	margin: 0;
+}
+
+.header-main {
+	
+}
+
+.header-main img {
+	margin-top: 50px;
+	float: center;
+}
+
+.header-main-text {
+	text-align: center;
+	
+}
+
+.header-main-text h1 {
+	font-size: 40px;
+	font-weight: normal;
+	margin-bottom: 1px;
+	padding-left: 44px;
+}
+
+.header-main-text p {
+	margin-top: 13px;
+	font-size: 20px;
+	padding-left: 150px;
+}
+
+#uxer {
+	text-align: center;
+}
+
+#uxer img {
+	margin-left: 65px;
+	margin-bottom: 1px;
+}
+
+#uxer p {
+	margin-right: 80px;
+}
+
+/* free template offer */
+
+.template-promo {
+	text-align: left;
+	list-style-type: none;
+	float: left;
+	background: #C7D7E2;
+	font-family: "Segoe UI";
+	width: 100%;
+}
+
+.template-promo p{
+	float: left;
+	margin-right: 70%;
+}
+
